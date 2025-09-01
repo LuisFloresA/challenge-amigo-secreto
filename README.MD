@@ -30,7 +30,7 @@ Permite ingresar nombres de personas, listarlos en pantalla y realizar un sorteo
 
 --- 
 
-## 📸 Vista previa ![Amigo Secreto](assets/captura_Amigo-Secreto.png) 
+## 📸 Vista previa ![Amigo Secreto](assets/captura_Amigo_Secreto.png) 
 
 --- 
 
